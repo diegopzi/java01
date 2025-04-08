@@ -1,0 +1,16 @@
+
+public class OperaçõesMatematicas {
+    public static void main(String[] args) {
+        System.out.println("A divisão de 2");
+        System.out.println("");
+
+
+        System.out.println("operações matematicas");
+        double som, sub, div, mul;
+
+        som = 32 + 3;
+        sub = 7 - 2;
+        div = 2 / 2;
+        mul = 2 * 3;
+        System.out.println("A soma de 12 " + som);
+    }
