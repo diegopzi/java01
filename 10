@@ -7,7 +7,7 @@ public class TiposVariaveis {
     public static void main(String [] args) {
         int inteiro = 4;
         double decimal = 5.73;
-        String nome = "Otavio";
+        String nome = "Diego";
         boolean booleana = true;
 
         System.out.println(inteiro);
